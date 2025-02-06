@@ -72,6 +72,6 @@ ul li a:hover {
   background: linear-gradient(to right, #2b0226, #4d024e);
   border: 0.5px solid white;
   transform: scale(1.1);
-  transition: 1s;
+  transition: 0.5s;
 }
 
