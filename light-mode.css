@@ -1,0 +1,14 @@
+.light {
+  --text-color: black;
+  --bg-url: url(./assets/bg-mobile-light.jpg);
+  --stroke-color: rgba(0, 0, 0, 0.5);
+  --surface-color: linear-gradient(to right, #e1d3df, #e4b3e3);
+  --surface-color-hover: linear-gradient(to right, #f7d0f3, #f49ef6);
+  --highlight-color: rgba(0, 0, 0, 0.1);
+  --switch-bg-url: url(./assets/sun.svg);
+}
+
+.light #switch__button button {
+  right: 0;
+  left: initial;
+}

@@ -1,0 +1,9 @@
+:root {
+  --text-color: white;
+  --bg-url: url(./assets/bg-mobile.jpg);
+  --stroke-color: rgba(255, 255, 255, 0.5);
+  --surface-color: linear-gradient(to right, #230520, #580257);
+  --surface-color-hover: linear-gradient(to right, #4c0a45, #39083a);
+  --highlight-color:  rgba(255, 255, 255, 0.2);
+  --switch-bg-url: url(./assets/moon-stars.svg);
+}
